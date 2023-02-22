@@ -49,6 +49,7 @@
 		CEBA794C29A6BB8700286FE4 /* AlgorithmsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlgorithmsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEBA795029A6BB8700286FE4 /* AlgorithmsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsUITests.swift; sourceTree = "<group>"; };
 		CEBA795229A6BB8700286FE4 /* AlgorithmsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CEBA796029A6BC5100286FE4 /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 		CEBA792E29A6BB8500286FE4 /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				CEBA795F29A6BC4000286FE4 /* Playgrounds */,
 				CEBA792F29A6BB8500286FE4 /* AppDelegate.swift */,
 				CEBA793129A6BB8500286FE4 /* SceneDelegate.swift */,
 				CEBA793329A6BB8500286FE4 /* ViewController.swift */,
@@ -125,6 +127,14 @@
 				CEBA795229A6BB8700286FE4 /* AlgorithmsUITestsLaunchTests.swift */,
 			);
 			path = AlgorithmsUITests;
+			sourceTree = "<group>";
+		};
+		CEBA795F29A6BC4000286FE4 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				CEBA796029A6BC5100286FE4 /* 1.playground */,
+			);
+			path = Playgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
