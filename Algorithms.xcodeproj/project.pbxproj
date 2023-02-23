@@ -50,6 +50,9 @@
 		CEBA795029A6BB8700286FE4 /* AlgorithmsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsUITests.swift; sourceTree = "<group>"; };
 		CEBA795229A6BB8700286FE4 /* AlgorithmsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		CEBA796029A6BC5100286FE4 /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CEBA796129A7207C00286FE4 /* 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CEBA796229A726A700286FE4 /* 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CEBA796329A729C400286FE4 /* 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +136,9 @@
 			isa = PBXGroup;
 			children = (
 				CEBA796029A6BC5100286FE4 /* 1.playground */,
+				CEBA796129A7207C00286FE4 /* 2.playground */,
+				CEBA796229A726A700286FE4 /* 3.playground */,
+				CEBA796329A729C400286FE4 /* 4.playground */,
 			);
 			path = Playgrounds;
 			sourceTree = "<group>";
