@@ -1,6 +1,6 @@
 import UIKit
 
-var mySentence = "Hola soy Nicolas Pepe"
+var mySentence = "Hola soy Nicolás Pepe"
 
 func reverseWords(sentence: String) -> String{
     let words = mySentence.components(separatedBy: " ")
