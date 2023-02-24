@@ -41,6 +41,3 @@ func search(node: Node?, searchValue: Int) -> Bool {
 
 print(search(node: rootNode, searchValue: 5))
 print(search(node: rootNode, searchValue: 522))
-
-
-
